@@ -1,0 +1,12 @@
+{
+  "name": "checklist-system",
+  "version": "1.0.0",
+  "description": "A Checklist System in Node.js that evaluates certain conditions based on the provided input data (fetched from an API) and displays a dashboard with results showing which conditions have passed and failed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

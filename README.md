@@ -6,7 +6,7 @@
 
 ## 📸 **Project UI Screenshot**
 
-![Project UI](../Checklist-System/client/public/assets/CheckList%20UI%20ScreenShot.png)  
+![Project UI](./client/public/assets/CheckList%20UI%20ScreenShot.png)  
 _A screenshot of frontend application/UI here._
 
 ---

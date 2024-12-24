@@ -4,9 +4,19 @@
   "description": "A Checklist System in Node.js that evaluates certain conditions based on the provided input data (fetched from an API) and displays a dashboard with results showing which conditions have passed and failed.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
 }
